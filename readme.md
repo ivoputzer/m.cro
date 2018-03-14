@@ -3,3 +3,4 @@ is a series of javascript modules that makes use of es6+ exclusive features. all
 
 #### available on npm:
 - [m.test](https://github.com/ivoputzer/m.test#readme)
+- [m.queue](https://github.com/ivoputzer/m.queue#readme)
