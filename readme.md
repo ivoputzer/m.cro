@@ -82,7 +82,7 @@ is a series of javascript modules that makes use of es6+ exclusive features. all
 [![minzip](https://img.shields.io/bundlephobia/minzip/m.noansi.svg?style=flat-square)](https://www.npmjs.com/package/m.noansi)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&colorB=007EC6)](https://spdx.org/licenses/MIT)
 
-### [m.flatten](https://github.com/ivoputzer/m.noansi#readme)
+### [m.flatten](https://github.com/ivoputzer/m.flatten#readme)
 [![travis](https://img.shields.io/travis/ivoputzer/m.flatten.svg?style=flat-square)](https://travis-ci.org/ivoputzer/m.flatten)
 [![dependencies](https://img.shields.io/badge/dependencies-none-blue.svg?style=flat-square&colorB=44CC11)](package.json)
 [![linter](https://img.shields.io/badge/coding%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
