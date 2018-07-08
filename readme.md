@@ -1,6 +1,6 @@
 m!cro
 ===
-is a series of javascript modules that makes use of es6+ exclusive features. all packages are meant to be small in size and with the fewest dependencies possible.
+is a series of javascript modules that make use of es6+ exclusive features. all packages are meant to be small in size and with the fewest dependencies possible.
 
 ### [m.test](https://github.com/ivoputzer/m.test#readme)
 [![travis](https://img.shields.io/travis/ivoputzer/m.test.svg?style=flat-square)](https://travis-ci.org/ivoputzer/m.test)
